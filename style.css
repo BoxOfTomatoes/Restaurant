@@ -1,0 +1,59 @@
+body {
+  background-image: url("paperimage.png"); /* this is the new thing */
+  background-size: cover;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(153, 59, 98);
+    font-size: 45px;
+    
+    
+}
+
+h2 {
+    font-size: 40px;
+}
+
+img {
+      border: 1px solid #522626;
+  border-radius: 5px;
+  padding: 3px;
+}
+
+#titles {
+    font-size: larger;
+    font-weight: bolder;
+    text-decoration: underline dashed rgba(58, 24, 5, 0.733);
+    
+}
+
+div {
+    margin: auto;
+    width: 450px;
+}
+ img {
+    background-color: rgb(204, 166, 117);
+ }
+
+ span {
+    background-color: #613811a6;
+    padding: 2px 4px;
+ }
+
+ li {
+    
+ }
+
+ h3 {
+    text-decoration: underline rgba(99, 62, 7, 0.589)
+ }
+
+ input {
+  width: 400px;
+  height: 150px;
+}
+
+label {
+    font-weight: bold;
+}
